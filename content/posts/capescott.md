@@ -5,6 +5,8 @@ draft: false
 ---
 Photos below of a 2018 trip to Cape Cape Scott.
 
+this is also new text
+
 \
 ![image alt text](/CapeScott/CapeScott4212.jpg)
 

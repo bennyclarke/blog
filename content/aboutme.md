@@ -5,3 +5,5 @@ draft: false
 ---
 
 about me
+asdasd lalal
+this is new text
