@@ -6,6 +6,8 @@ draft: false
 
 ![image alt text](/CapeScott/CapeScott4733.jpg)
 
+{{< figure src="/CapeScott/CapeScott4733.jpg" title="Steve">}}
+
 <H1>
 <p style="text-align: center;">Benjamin Clarke</p>
 </H1>
