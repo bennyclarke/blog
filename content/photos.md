@@ -7,8 +7,19 @@ draft: false
 photos
 ![image alt text](/Algonquin/F2930012.JPG)
 
+<figure>
+  <img src="/Algonquin/F2930012.JPG"
+  width = "1000"
+  height = "1200"/>
+</figure>
 
 ![image alt text](/CapeScott/CapeScott4212.jpg)
+
+<figure>
+  <img src="/CapeScott/CapeScott4212.jpg"
+  width = "1000"
+  height = "1200"/>
+</figure>
 
 ![image alt text](/CapeScott/CapeScott4218.jpg)
 

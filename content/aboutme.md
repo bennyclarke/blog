@@ -6,7 +6,15 @@ draft: false
 
 ![image alt text](/CapeScott/CapeScott4733.jpg)
 
+{{ $image := $resource.Fill "600x400"}}
+
 {{< figure src="/CapeScott/CapeScott4733.jpg" title="Steve">}}
+
+<figure>
+  <img src="/CapeScott/CapeScott4733.jpg"
+  width = "1000"
+  height = "1200"/>
+</figure>
 
 <H1>
 <p style="text-align: center;">Benjamin Clarke</p>
