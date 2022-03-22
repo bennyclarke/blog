@@ -4,8 +4,14 @@ date: 2022-02-19T16:01:44-05:00
 draft: false
 ---
 
+{{< load-photoswipe >}}
 photos
 ![image alt text](/Algonquin/F2930012.JPG)
+
+{{< figure src="/CapeScott/CapeScott4218.jpg" >}}
+{{< figure src="/CapeScott/CapeScott4212.jpg" >}}
+{{< figure src="/CapeScott/CapeScott4345.jpg" >}}
+
 
 <figure>
   <img src="/Algonquin/F2930012.JPG"
