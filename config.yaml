@@ -42,11 +42,11 @@ params:
   dateFormat: "2006-01-02"
   paginationSinglePost: true
   style: auto-with-switcher
-  readMore: false # show read more button
+  readMore: true # show read more button
   readNextPosts: 5  # show 5 related posts, 0 by default
   disableSummary: false
   copyCodeButton: true # true by default
-  rssAsSocialIcon: true
+  rssAsSocialIcon: truef
   # utteranc.es support
   utterancesRepo: ""  # mandatory
   utterancesTheme: "" # optional

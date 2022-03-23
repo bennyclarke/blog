@@ -7,7 +7,6 @@ Photos below of a 2018 trip to Cape Scott.
 
 this is also new text
 
-\
 ![image alt text](/CapeScott/CapeScott4212.jpg)
 
 ![image alt text](/CapeScott/CapeScott4218.jpg)
