@@ -3,7 +3,7 @@ title: "Cape Scott Trip"
 date: 2022-02-23T21:11:21-05:00
 draft: false
 ---
-Photos below of a 2018 trip to Cape Cape Scott.
+Photos below of a 2018 trip to Cape Scott.
 
 this is also new text
 
