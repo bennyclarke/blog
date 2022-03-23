@@ -3,24 +3,14 @@ title: "Rocketry"
 date: 2022-02-23T21:03:40-05:00
 draft: false
 ---
+{{< load-photoswipe >}}
 
 {{< youtube 4uGLOy3BRN0>}}  
 
+{{< gallery dir="Rocketry" />}}
 
-![image alt text](/Rocketry/IMG_0425.JPG)
+<video width="400" height="600" src="Rocketry/QYYC2337.MOV" controls>
 
-![image alt text](/Rocketry/QDIL1770.JPG)
-
-![image alt text](/Rocketry/FLLI1813.JPG)
-
-![image alt text](/Rocketry/IMG_0562.JPG)
-
-![image alt text](/Rocketry/IMG_0593.JPG)
-
-![image alt text](/Rocketry/IMG_8295.JPG)
-
-![image alt text](/Rocketry/IMG_E8272.JPG)
-
-![image alt text](/Rocketry/KUUZ7645.JPG)
-
-![image alt text](/Rocketry/BABE1839.JPG)
+<video width="320" height="240" controls>
+    <source src="static/Rocketry/QYYC2337.MOV"type=video>
+  </video>
