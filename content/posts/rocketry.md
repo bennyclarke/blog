@@ -5,8 +5,17 @@ draft: false
 ---
 
 {{< youtube 4uGLOy3BRN0>}}  
+<br>
 
-{{< embed-pdf url="pdfs/Team52FinalReport.pdf" >}}
+ <!---<embed src="/pdfs/Team52FinalReport.pdf" type="application/pdf" width=600 height=600>
+ Alternate way to embed PDF
+ --->
+
+<p style="text-align: center;">
+<object data="/pdfs/Team52FinalReport.pdf" type="application/pdf" width=400 height=517>
+</object>
+</p>
+
 
 {{< gallery dir="Rocketry" />}}
 
