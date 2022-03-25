@@ -26,8 +26,8 @@ Anubis is a simple minimalist theme for [Hugo blog engine](https://gohugo.io/).
 - Hidden posts (available only by link)
 - Translations (en, ru, fr, pl)
 - Custom CSS/JS
-- Multilingual mode 
-- Robots.txt 
+- Multilingual mode
+- Robots.txt
 - Favorite posts
 - Pagination on post single page
 - Optional "Read more" link
@@ -139,8 +139,8 @@ Options:
 - `light-without-switcher` - light theme, without switcher (by default)
 - `dark-without-switcher` - dark theme, without switcher
 - `auto-without-switcher` - theme based on user system settings, without switcher
-- `light` - light theme by default, can be switched by user to dark theme and back. Theme settings are saved for user 
-- `dark` - dark theme by default, can be switched by user to light theme and back. Theme settings are saved for user 
+- `light` - light theme by default, can be switched by user to dark theme and back. Theme settings are saved for user
+- `dark` - dark theme by default, can be switched by user to light theme and back. Theme settings are saved for user
 - `auto` - theme based on user system settings by default, can be switched by user to dark/light theme. Theme settings are saved for user (by default in example sites)
 
 ### Social icons
@@ -204,10 +204,10 @@ If you want font awesome icons, download "Font Awesome For Desktop" and open svg
 ### Google Analytics
 Only works for production environment.
 
-### Multilingual mode 
+### Multilingual mode
 Check config/example usage in [exampleSiteMultilingual](https://github.com/Mitrichius/hugo-theme-anubis/tree/master/exampleSiteMultilingual) directory and documentation on [Hugo site](https://gohugo.io/content-management/multilingual/).
 
-### RSS 
+### RSS
 RSS is available by site url + /index.xml. Also available for specific language, section, taxonomy.  
 `rssAsSocialIcon` parameter enables rss sosial icon with link to site current language RSS.
 
@@ -216,7 +216,7 @@ Based on environment.
 For production — allow all, for other — disallow all.
 
 ### Favorite posts
-Add `favorite: true` to post front matter. It adds a "★" icon nearby post's title. 
+Add `favorite: true` to post front matter. It adds a "★" icon nearby post's title.
 
 ### Related posts (Read Next section)
 Based on `readNextPosts` config parameter. Check [this article](https://gohugo.io/content-management/related/#configure-related-content) for configuration details.
@@ -232,7 +232,7 @@ Enabled by `paginationSinglePost` param in `params` section of config.
 
 ### Webmentions
 To provide webmention support you can **either** specify your webmention.io username with `login: webmentionusername` **or** specify a link to your custom webmention endpoint with `url: https://yourdomain.com/webemntions/receive`.
-If you use webmention.io you can also enable pingback with `pingback: true` 
+If you use webmention.io you can also enable pingback with `pingback: true`
 
 ## Contributing
 
