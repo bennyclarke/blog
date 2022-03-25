@@ -6,7 +6,7 @@ draft: false
 
 {{< youtube 4uGLOy3BRN0>}}  
 
-{{< embed-pdf url=".pdf\Team52FinalReport.pdf" >}}
+{{< embed-pdf url=".\pdfs\Team52FinalReport.pdf" >}}
 
 {{< gallery dir="Rocketry" />}}
 
