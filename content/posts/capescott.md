@@ -1,5 +1,5 @@
 ---
-title: "Cape Scott Trip"
+title: "Cape Scott"
 date: 2018-11-20T21:11:21-05:00
 draft: false
 ---

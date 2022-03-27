@@ -4,7 +4,7 @@ date: 2022-02-19T16:01:44-05:00
 draft: false
 ---
 
-![image alt text](/CapeScott/CapeScott4733.jpg)
+![image alt text](/CapeScott/CapeScott4733-min.jpg)
 
 <H1>
 <p style="text-align: center;">Benjamin Clarke</p>
@@ -54,4 +54,7 @@ Clarke, Austin Cooper
 
 ## Certifications:
 
-Nuclear Energy Worker Certifications – Awarded by the Canadian Nuclear Safety Commission. Sept. 2018
+Nuclear Energy Worker Certifications – Awarded by the Canadian Nuclear Safety Commission. Sept. 2018  
+<br>
+
+![image alt text](/Misc/IMG_2908.JPG)
