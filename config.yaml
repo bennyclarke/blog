@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: "https://benjamin-clarke.com/"
+baseURL: "https://benjamin-clarke.netlify.app/"
 title: "Ben's Cup of Coffee"
 theme: "hugo-theme-anubis-master"
 paginate: 10
